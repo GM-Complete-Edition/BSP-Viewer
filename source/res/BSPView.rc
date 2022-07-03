@@ -1,0 +1,47 @@
+// --------- resources of type TGA -----------
+EMITTER TGA "EMITTER.tga"
+DUMMY TGA "DUMMY.tga"
+// --------- resources of type Cursor -----------
+CLOSEDHAND Cursor "CLOSEDHAND.cur"
+ERASE Cursor "ERASE.cur"
+FILL Cursor "FILL.cur"
+GETFILL Cursor "GETFILL.cur"
+MOVE Cursor "MOVE.cur"
+OPENHAND Cursor "OPENHAND.cur"
+PAN Cursor "PAN.cur"
+PER Cursor "PER.cur"
+ROTATE Cursor "ROTATE.cur"
+ROTXY Cursor "ROTXY.cur"
+ROTZ Cursor "ROTZ.cur"
+SCALE Cursor "SCALE.cur"
+SELECT Cursor "SELECT.cur"
+ZOOM Cursor "ZOOM.cur"
+ZOOM2 Cursor "ZOOM2.cur"
+// --------- resources of type Manifest -----------
+1 24 "1.manifest"
+// --------- resources of type Icon -----------
+MAINICON Icon "MAINICON.ico"
+// -- version --
+VS_VERSION_INFO VERSIONINFO
+FILEVERSION    2,0,0,0
+PRODUCTVERSION 2,0,0,0
+FILETYPE 0x1
+{
+    BLOCK "StringFileInfo"
+    {
+        BLOCK "040904b0"
+        {
+            VALUE "CompanyName",        "AlexBond\0"
+            VALUE "FileDescription",    "BSPViewer\0"
+            VALUE "FileVersion",        "2.0.0.0\0"
+            VALUE "LegalCopyright",     "© 2018 AlexBond\0"
+            VALUE "OriginalFilename",   "BSPViewer\0"
+            VALUE "ProductName",        "BSPViewer\0"
+            VALUE "ProductVersion",     "2.0.0.0\0"
+        }
+    }
+    BLOCK "VarFileInfo"
+    {
+        VALUE "Translation", 0x419, 1200
+    }
+}
