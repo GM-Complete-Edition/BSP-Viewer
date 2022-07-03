@@ -1,0 +1,30 @@
+[submodule "lib/TNT"]
+	path = lib/TNT
+	url = https://github.com/GM-Complete-Edition/TNT
+[submodule "lib/FastMM"]
+	path = lib/FastMM
+	url = https://github.com/GM-Complete-Edition/FastMM
+[submodule "lib/Dictionary"]
+	path = lib/Dictionary
+	url = https://github.com/GM-Complete-Edition/Dictionary
+[submodule "lib/zlib"]
+	path = lib/zlib
+	url = https://github.com/GM-Complete-Edition/zlib
+[submodule "lib/XTPanel"]
+	path = lib/XTPanel
+	url = https://github.com/GM-Complete-Edition/XTPanel
+[submodule "lib/OpenGLBox"]
+	path = lib/OpenGLBox
+	url = https://github.com/GM-Complete-Edition/OpenGLBox
+[submodule "lib/nativexml"]
+	path = lib/nativexml
+	url = https://github.com/GM-Complete-Edition/nativexml
+[submodule "lib/DXT"]
+	path = lib/DXT
+	url = https://github.com/GM-Complete-Edition/DXT
+[submodule "lib/CoolTrayIcon"]
+	path = lib/CoolTrayIcon
+	url = https://github.com/GM-Complete-Edition/CoolTrayIcon
+[submodule "lib/VirtualTreeviewV5.3.0"]
+	path = lib/VirtualTreeviewV5.3.0
+	url = https://github.com/GM-Complete-Edition/VirtualTreeview
